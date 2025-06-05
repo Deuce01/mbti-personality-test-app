@@ -29,16 +29,16 @@ export default function Footer() {
         </Link>
       </Text>
       <Text>
-        🔨 Made by{" "}
+        
         <Link
-          href="https://github.com/rauf-21"
+          href="https://github.com/deuce01"
           target="_blank"
         >
           <Button
             colorScheme="primary"
             variant="link"
           >
-            rauf-21
+            Arthur dynamics
           </Button>
         </Link>
       </Text>

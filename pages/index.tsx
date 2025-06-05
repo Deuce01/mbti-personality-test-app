@@ -27,7 +27,7 @@ export default function HomePage() {
             textAlign="center"
           >
             <Highlight
-              query="MBTI Personality Test"
+              query="OUTMATCH Personality Test"
               styles={{
                 py: 1,
                 px: 4,
@@ -36,7 +36,7 @@ export default function HomePage() {
                 color: "white",
               }}
             >
-              Welcome to MBTI Personality Test
+              Welcome to OUTMATCH Personality Test
             </Highlight>
           </Heading>
           <Text
